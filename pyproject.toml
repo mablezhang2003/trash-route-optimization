@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "trash-route-optimization"
+version = "0.1.0"
+description = ""
+authors = ["Mable Zhang <mablezhang2003@berkeley.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyter = "^1.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+

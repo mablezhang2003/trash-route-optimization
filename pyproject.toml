@@ -15,6 +15,7 @@ networkx = "^3.5"
 geopy = "^2.4.1"
 matplotlib = "^3.10.3"
 ortools = "^9.14.6206"
+requests = "^2.32.4"
 
 
 [build-system]

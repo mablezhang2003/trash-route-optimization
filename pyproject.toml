@@ -16,6 +16,8 @@ geopy = "^2.4.1"
 matplotlib = "^3.10.3"
 ortools = "^9.14.6206"
 requests = "^2.32.4"
+tqdm = "^4.67.1"
+polyline = "^2.0.2"
 
 
 [build-system]
